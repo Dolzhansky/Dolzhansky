@@ -1,4 +1,4 @@
-[![Header](https://github.com/Dolzhansky/Dolzhansky/blob/main/assets/assets.gif)]
+![Header](https://github.com/Dolzhansky/Dolzhansky/blob/main/assets/assets.gif)
 
 ## I'm a beginner Software Engineer
 
