@@ -1,14 +1,12 @@
-## Шалом 👋
-### Создание дискорд ботов и всякой фигни
+[![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)](https://www.youtube.com/channel/UC-8PllPkjOrFCX-_zDriTJQ)
 
-Это мой профиль, как ни странно. Тут ты можешь увидеть самые бредовые репозитории на диком `Гитхабе` 👍
+## I'm a beginner Software Engineer
 
----
-- [VK](https://vk.com/nedolzhanskylv)
-- [TELEGRAM](https://t.me/TheDevNull)
-- [SITE](https://dolzhansky.space)
----
+### Languages and Tools:
+![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift&logoColor=47C5FB)
+![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
-- 💘 Язык программирования `JavaScript`
-- 🌱 Заростки языков `Swift`
-- 🤔 Желаю выучить `TypeScript,Kotilin,Java`
+### Follow Me:
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/d_dolzhansky)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/nedolzhanskylv)
