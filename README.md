@@ -11,7 +11,7 @@
 ![Sequilize](https://img.shields.io/badge/Sequelize-090909?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 ### Frameworks
-![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=green)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ## I'm using this software
