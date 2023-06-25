@@ -1,5 +1,3 @@
-![Header](https://github.com/Dolzhansky/Dolzhansky/blob/main/assets/assets.gif)
-
 ## Senior Back-End Enginer
 
 ### Languages and Tools:
